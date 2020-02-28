@@ -1,0 +1,18 @@
+{
+  "name": "contactscli",
+  "version": "1.0.0",
+  "description": "a cli for storing contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prateek Sapkota",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.1.1",
+    "inquirer": "^7.0.4",
+    "mongoose": "^5.9.2"
+  },
+  "preferGlobal": true,
+  "bin": "./index.js"
+}
