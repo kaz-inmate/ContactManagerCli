@@ -11,7 +11,7 @@
   "dependencies": {
     "commander": "^4.1.1",
     "inquirer": "^7.0.4",
-    "mongoose": "^5.9.2"
+    "mongoose": "^5.13.15"
   },
   "preferGlobal": true,
   "bin": "./index.js"
